@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "category": "web",
+      "year": "2024",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "link": "#",
+      "title": { "cs": "E-shop s elektronikou", "en": "Electronics E-shop" },
+      "desc": { "cs": "Moderní e-shop postavený na Reactu.", "en": "Modern e-shop built on React." },
+      "brief": { "cs": "Rychlý jednostránkový e-shop.", "en": "Fast SPA e-shop." },
+      "review": { "cs": "Prodeje stouply o 20%.", "en": "Sales went up by 20%." }
+    },
+    {
+      "id": 2,
+      "category": "python",
+      "year": "2023",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "link": "#",
+      "title": { "cs": "Scraping Bot", "en": "Scraping Bot" },
+      "desc": { "cs": "Automatizace stahování dat.", "en": "Data scraping automation." },
+      "brief": { "cs": "Bot pro realitní server.", "en": "Real estate bot." },
+      "review": { "cs": "Ušetřilo 10 hodin týdně.", "en": "Saved 10 hours/week." }
+    },
+    {
+      "id": 3,
+      "category": "csharp",
+      "year": "2023",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "link": "#",
+      "title": { "cs": "Skladový systém", "en": "Warehouse App" },
+      "desc": { "cs": "WPF aplikace pro sklad.", "en": "WPF app for warehouse." },
+      "brief": { "cs": "Offline aplikace pro čtečky.", "en": "Offline app for scanners." },
+      "review": { "cs": "Stabilní řešení.", "en": "Stable solution." }
+    }
+  ],
+  "reviews": [
+    { "author": "Petr Svoboda", "position": "CEO", "text": { "cs": "Rychlé dodání.", "en": "Fast delivery." } },
+    { "author": "Jana Malá", "position": "Freelancer", "text": { "cs": "Čistý kód.", "en": "Clean code." } }
+  ]
+}
